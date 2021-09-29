@@ -1,0 +1,108 @@
+{
+      "name": "LILLY Scrapper",
+      "description": "A Telethon based Telegram group management bot. Developed by rizad",
+      "logo": "https://b.top4top.io/p_2070cvx9q0.jpg",
+      "keywords": [
+         "Telethon",
+         "Telegram",
+         "Group",
+         "manager",
+         "lilly Scrapper"
+      ],   
+   "repository": "https://github.com/riz4d/LillySc",
+   "env": {
+      "TOKEN": {
+         "description": "Your bot token. Get one from @BotFather duh",
+         "required": true,
+         "value": ""
+      },
+      "OWNER_ID": {
+         "description": "Get API_KEY from my.telegram.org, used for telethon based modules.",
+         "required": true,
+         "value": ""
+      },
+      "HASH_1": {
+         "description": "Get API_HASH from my.telegram.org, used for telethon based modules.",
+         "required": true,
+         "value": ""
+      },
+      "KEY_1": {
+         "description": "Your user ID as an integer.",
+         "required": true,
+         "value": ""
+      },
+      "KEY_2": {
+         "description": "Your username without the @",
+         "value": ""
+      },
+      "HASH_2": {
+         "description": "Telegram String Session",
+         "required": false,
+         "value": ""
+      },
+      "KEY_3": {
+         "description": "MongoDB Url get from mongodb",
+         "required": false,
+         "value": ""
+      },      
+      "HASH_3": {
+         "description": "Id of the bot",
+         "required": false,
+         "value": ""
+      },
+      "KEY_4": {
+         "description": "Ids of dev users seperated by space",
+         "required": false,
+         "value": ""
+      },
+      "HASH_4": {
+         "description": "Required for Update module",
+         "required": false,
+         "value": ""
+      },
+      "HASH_5": {
+         "description": "Required for Update module",
+         "required": false,
+         "value": ""
+      },
+      "KEY_5": {
+         "description": "Required for Update module",
+         "required": false,
+         "value": ""
+      },
+      "STRING_4": {
+         "description": "Required for Update module",
+         "required": false,
+         "value": ""
+      },
+      "STRING_5": {
+         "description": "Required for Update module",
+         "required": false,
+         "value": ""
+      },
+      "STRING_1": {
+         "description": "Required for Update module",
+         "required": true,
+         "value": ""
+      },
+      "HASH_3": {
+         "description": "Required for Update module",
+         "required": false,
+         "value": ""
+      },
+      "HASH_2": {
+         "description": "Required for Update module",
+         "required": false,
+         "value": ""
+      }
+   },
+   "keywords": [
+      "telegram",
+      "Telethon",
+      "group",
+      "manager",
+      "rizad"
+   ],
+   "name": "LILLY Scrapper",
+   "repository": "https://github.com/riz4d/LillySc"
+}
